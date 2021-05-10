@@ -2,4 +2,4 @@
 
 ## Ingi og Daníel
 
-background liturinn á síðunni er F2EECB
+background liturinn á síðunni er ##E0C9A6
